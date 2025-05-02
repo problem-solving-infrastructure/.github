@@ -10,7 +10,7 @@ The rules and development tools that are in the organization's repositories are 
 
 You can see real examples of repositories that follow the recommendations from the rules at the following links: [leetcode-java](https://github.com/fartem/leetcode-java), [leetcode-ruby](https://github.com/fartem/leetcode-ruby), [codewars-java](https://github.com/fartem/codewars-java) and [codewars-kotlin](https://github.com/fartem/codewars-kotlin).
 
-## Navigation
+## Infrastructure
 
 - [lcsp](https://github.com/problem-solving-infrastructure/lcsp): A tool for showing solutions from LeetCode.
 - [project-structure](https://github.com/problem-solving-infrastructure/project-structure): A basic set of recommendations for designing repositories.
